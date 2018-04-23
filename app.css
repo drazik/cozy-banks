@@ -5544,6 +5544,8 @@ iframe {
 }
 .Transactions_bnk-op-table_10gBi .Transactions_bnk-transaction-mobile_1lVwv > td {
   width: 100%;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 .Transactions_bnk-op-table_10gBi .Transactions_bnk-transaction-mobile_1lVwv:last-child {
   border-bottom: 0;
