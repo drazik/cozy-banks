@@ -6429,6 +6429,14 @@ input[type='text'].Notifications_notification-input_1I3uZ.Notifications_suffixed
   .TransactionActions_TransactionActionMenu_2hFTi {
     text-align: center;
   }
+  .TransactionActions_TransactionActionButton_1GKUF:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 1rem;
+    right: 100%;
+  }
   .Transactions_c-table_3KbCQ tr {
     max-width: 100vw;
   }
